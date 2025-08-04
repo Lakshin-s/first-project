@@ -12,11 +12,11 @@ Functional Requirements | Non-Functional Requirements
 
 ## Basic Design of UI, Hierarchy and Interactive elements
 ### Wireframes
-![alt text](image.png)
-![alt text](image.png)
+![alt text](wireframe.png)
+![alt text](wireframe2.png)
 
 ### Colour Palette
-![alt text](image.png)
+![alt text](colorpalette.png)
 
 ### Font
 #### Option 1: Headings + Titles
