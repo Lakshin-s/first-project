@@ -8,3 +8,7 @@ Functional Requirements | Non-Functional Requirements
 | Forum and Post management | Secure Data Storage |
 | Working marketplace | Secure Data Storage | 
 | Forum and Post management | Secure Data Storage | 
+
+
+## Basic Design of UI, Hierarchy and Interactive elements
+### Wireframes
