@@ -22,9 +22,11 @@ Functional Requirements | Non-Functional Requirements
 #### Option 1: Headings + Titles
 Font: Oswald
 Style: Condensed, bold, strong presence
+
 Why: Perfect for headlines, scores, and breaking news
 
 #### Option 2: Body Text
 Font: Roboto
 Style: Clean, neutral, highly readable on screens
+
 Why: Ideal for paragraphs and match reports without causing eye strain
