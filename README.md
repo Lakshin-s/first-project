@@ -31,8 +31,14 @@ Style: Clean, neutral, highly readable on screens
 
 Why: Ideal for paragraphs and match reports without causing eye strain
 
-### Alternate Wireframe
+## Alternate Wireframe
 ![alt text](wireframe3.png)
-#### Home page - How is it different from the other one?
+### Home page - How is it different from the other design?
 - Less elements on home page
 - Colour palette and font considered
+
+![alt text](wireframemarketplace.png)
+### Marketplace - How is it different from other design?
+- Colour palette and font considered
+- Included an advertisement 
+- Added Filters section
