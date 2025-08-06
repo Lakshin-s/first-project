@@ -42,3 +42,14 @@ Why: Ideal for paragraphs and match reports without causing eye strain
 - Colour palette and font considered
 - Included an advertisement 
 - Added Filters section
+
+![alt text](fixtures.png)
+#### Fixtures 
+
+![alt text](transfer.png)
+![alt text](latestnews.png)
+#### News - How is it different from the other design?
+- Added 'transfers' news
+- Color palette and font considered
+- Included an advertisement
+- Added a search bar
