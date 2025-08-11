@@ -53,3 +53,7 @@ Why: Ideal for paragraphs and match reports without causing eye strain
 - Color palette and font considered
 - Included an advertisement
 - Added a search bar
+## Designing algorithms 
+### Login page flowchart
+
+![alt text](flowchart.png)
