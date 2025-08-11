@@ -56,4 +56,38 @@ Why: Ideal for paragraphs and match reports without causing eye strain
 ## Designing algorithms 
 ### Login page flowchart
 
-![alt text](flowchart.png)
+![alt text](flowchart2.png)
+
+### Test Case 1 - Successful Login
+
+
+Test Case ID: TC01
+
+Title: Verify user can successfully log in with valid credentials
+
+Preconditions:
+
+- User has an existing account
+
+- User knows correct username and password
+
+Test Steps:
+
+1. Navigate to the football website home page.
+
+2. Click on the “Sign In” button.
+
+2. Enter a valid username in the “Username” field.
+
+3. Enter the correct password in the “Password” field.
+
+4. Click the “Login” button.
+
+Expected Result:
+
+- User is redirected to the homepage or dashboard.
+
+- Welcome message displays with the user’s name.
+
+- News feed loads correctly.
+
