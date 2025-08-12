@@ -91,3 +91,41 @@ Expected Result:
 
 - News feed loads correctly.
 
+Priority: High
+
+### Test Case 2 – Invalid Password Error Message
+
+
+Test Case ID: TC02
+
+Title: Verify error message appears when logging in with invalid password
+
+Preconditions:
+
+- User has an existing account
+
+Test Steps:
+
+1. Navigate to the football website home page.
+
+2. Click on the “Sign In” button.
+
+3. Enter a valid username in the “Username” field.
+
+4. Enter an incorrect password in the “Password” field.
+
+5. Click the “Login” button.
+
+Expected Result:
+
+- Login fails.
+
+- A clear error message appears (“Incorrect login details”).
+
+- A button appears ("Forgot Password?)
+
+- No user session is created.
+
+Priority: Medium
+
+
