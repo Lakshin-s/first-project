@@ -128,4 +128,46 @@ Expected Result:
 
 Priority: Medium
 
+## Queries
+1. List all users sorted alphabetically by username
+SELECT User_id, Username, Email
+FROM extension
+ORDER BY Username ASC;
+
+2. Find all users with email addresses from ".edu" domains
+SELECT User_id, Username, Email
+FROM extension
+WHERE Email LIKE '%.edu';
+
+3. Count how many users have emails from each domain
+SELECT SUBSTRING(Email FROM POSITION('@' IN Email) + 1) AS Domain,
+        COUNT(*) AS UserCount
+FROM extension
+GROUP BY Domain
+ORDER BY UserCount DESC;
+
+4. Find usernames that appear more than once (duplicates check)
+SELECT Username, COUNT(*) AS Occurrences
+FROM extension
+GROUP BY Username
+HAVING COUNT(*) > 1;
+
+5. Find the top 5 most common email domains
+SELECT SUBSTRING(Email FROM POSITION('@' IN Email) + 1) AS Domain,
+       COUNT(*) AS TotalUsers
+FROM extension
+GROUP BY Domain
+ORDER BY TotalUsers DESC
+LIMIT 5;
+
+6. Mask user passwords when displaying account details
+SELECT User_id,
+       Username,
+       Email,
+       CONCAT(LEFT(Password, 2), '*****') AS MaskedPassword
+FROM extension;
+
+7. Show the total number of users in the database
+SELECT COUNT(*) AS TotalUsers
+FROM extension;
 
