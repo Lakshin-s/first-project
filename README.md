@@ -148,8 +148,8 @@ WHERE Email LIKE '%.edu';
 3. Count how many users have emails from each domain
 
 SELECT SUBSTRING(Email FROM POSITION('@' IN Email) + 1) AS Domain,
-       
-        COUNT(*) AS UserCount
+
+ COUNT(*) AS UserCount
 
 FROM extension
 
@@ -170,8 +170,8 @@ HAVING COUNT(*) > 1;
 5. Find the top 5 most common email domains
 
 SELECT SUBSTRING(Email FROM POSITION('@' IN Email) + 1) AS Domain,
-      
-       COUNT(*) AS TotalUsers
+
+ COUNT(*) AS TotalUsers
 
 FROM extension
 
@@ -184,12 +184,12 @@ LIMIT 5;
 6. Mask user passwords when displaying account details
 
 SELECT User_id,
-      
-       Username,
-       
-       Email,
-       
-       CONCAT(LEFT(Password, 2), '*****') AS MaskedPassword
+
+Username,
+
+Email,
+ 
+ CONCAT(LEFT(Password, 2), '*****') AS MaskedPassword
 
 FROM extension;
 
