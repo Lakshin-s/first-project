@@ -242,7 +242,7 @@ development log started in august 18th in line with course shift away from desig
 | 3/9* | fixed merge issue and adjusted file names
 
 ## Lighthouse reports
-### september 4, 2025 (week 7)
+### September 4, 2025 (week 7)
 - performance: 67-71 (due to long load times of assets and fonts, unfinished pages)
 - accessibility: 100
 - best practices: 94 (unfinished pages)
