@@ -18,20 +18,20 @@ Functional Requirements | Non-Functional Requirements
 ### Colour Palette
 Primary Colors:
 
-Purple Blue: #667eea (Main brand color)
-Purple: #764ba2 (Secondary brand color)
+- Purple Blue: #667eea (Main brand color)
+= Purple: #764ba2 (Secondary brand color)
 
 Status Colors:
 
-Success Green: #28a745
-Error Red: #ff4757
-Warning Orange: #ff9500
-Champions League Blue: #0066ff
-Gold/Champion: #ffd700 and #ffed4e
+- Success Green: #28a745
+- Error Red: #ff4757
+- Warning Orange: #ff9500
+- Champions League Blue: #0066ff
+- Gold/Champion: #ffd700 and #ffed4e
 
 Gradient Used:
 
-Main Gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%)
+- Main Gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%)
 
 This gradient is used for:
 
