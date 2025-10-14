@@ -242,25 +242,23 @@ development log started in august 18th in line with course shift away from desig
 | 3/9* | fixed merge issue and adjusted file names
 
 ## lighthouse reports
-### september 18, 2025 (week 9)
-- performance: 63-67
+### september 4, 2025 (week 7)
+- performance: 67-71 (due to long load times of assets and fonts, unfinished pages)
 - accessibility: 100
-- best practices: 97
-- seo: 75
+- best practices: 94 (unfinished pages)
+- seo: 83
 
-low performance rating was linked to long load times of fonts and images. unfinished home page styling also led to slightly reduced best practices and performance marks.
 ### october 4, 2025 (week 1, school holidays)
 #### home page
 - performance: 100
-- accessibility: 88 --> 100
+- accessibility: 88 (lack of alt text for images) 
 - best practices: 100
-- seo: 73 --> 100
+- seo: 77 (links across the website too generic)
 
-accessibility and seo ratings were low as some recently images lacked alt text. the page also had no meta description, and the 'more' link in the menu was too generic for the seo rating. revisions to the detected errors saw a significant improvement in marks.
 #### log in page
-- performance: 78
-- accessibility: 92
-- best practices: 100
+- performance: 100
+- accessibility: 100
+- best practices: 88
 - seo: 100
 
 ## Task list
