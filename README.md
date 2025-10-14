@@ -241,21 +241,21 @@ development log started in august 18th in line with course shift away from desig
 | 1/9 | fixed data entries showing with images and fixed width but caused merge error |
 | 3/9* | fixed merge issue and adjusted file names
 
-## lighthouse reports
+## Lighthouse reports
 ### september 4, 2025 (week 7)
 - performance: 67-71 (due to long load times of assets and fonts, unfinished pages)
 - accessibility: 100
 - best practices: 94 (unfinished pages)
 - seo: 83
 
-### october 4, 2025 (week 1, school holidays)
-#### home page
+### October 4, 2025 (week 1, school holidays)
+#### Home page
 - performance: 100
 - accessibility: 88 (lack of alt text for images) 
 - best practices: 100
 - seo: 77 (links across the website too generic)
 
-#### log in page
+#### Log in page
 - performance: 100
 - accessibility: 100
 - best practices: 88
