@@ -241,6 +241,28 @@ development log started in august 18th in line with course shift away from desig
 | 1/9 | fixed data entries showing with images and fixed width but caused merge error |
 | 3/9* | fixed merge issue and adjusted file names
 
+## lighthouse reports
+### september 18, 2025 (week 9)
+- performance: 63-67
+- accessibility: 100
+- best practices: 97
+- seo: 75
+
+low performance rating was linked to long load times of fonts and images. unfinished home page styling also led to slightly reduced best practices and performance marks.
+### october 4, 2025 (week 1, school holidays)
+#### home page
+- performance: 100
+- accessibility: 88 --> 100
+- best practices: 100
+- seo: 73 --> 100
+
+accessibility and seo ratings were low as some recently images lacked alt text. the page also had no meta description, and the 'more' link in the menu was too generic for the seo rating. revisions to the detected errors saw a significant improvement in marks.
+#### log in page
+- performance: 78
+- accessibility: 92
+- best practices: 100
+- seo: 100
+
 ## Task list
 - [x] fix styling of navigation bar
 - [x] learn how to integrate complex queries into python functions for displaying data
