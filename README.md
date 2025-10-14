@@ -240,3 +240,54 @@ development log started in august 18th in line with course shift away from desig
 | 28/8* | added image
 | 1/9 | fixed data entries showing with images and fixed width but caused merge error |
 | 3/9* | fixed merge issue and adjusted file names
+
+## Task list
+- [x] fix styling of navigation bar
+- [x] learn how to integrate complex queries into python functions for displaying data
+- [x] fix display of cards to show in grid format instead of long column
+- [x] make table of contents for readme
+- [ ] finish styling all pages to sitewide theme
+    - [ ] home page
+    - [ ] library page
+    - [x] map page
+    - [ ] about page (+ contact)
+    - [ ] new note
+    - [x] log in page
+    - [x] account settings page
+    - [x] articles page
+- [x] account features
+    - [x] correct html input
+    - [x] integrate log in features into rest of website
+    - [x] dynamic account settings text in menu
+    - [x] style create account page
+    - [x] account page functionality
+- [ ] note taking feature functionality
+    - [x] inputting and saving notes
+    - [x] viewing and accessing notes in library feature
+    - [ ] inserting images
+- [x] articles feature functionality
+    - [x] link to view articles
+    - [x] generate articles and import to database
+    - [x] show username of article author in browsing page
+- [x] profile page
+    - [x] access to user settings
+    - [x] profile picture and bio
+    - [x] shows your posts
+- [ ] search bar feature
+    - [x] landing page with redirects
+    - [ ] functional bar
+- [x] sidebar
+    - [x] new note button location
+    - [x] collapsibility
+    - [x] account button functionally showing at bottom of menu
+
+## Deferred tasks
+*these tasks would see improvements to the website, however they are not within the current scope and timeline of the project*
+
+- [ ] delete account feature
+- [ ] offline functionality
+- [ ] continue investigating containers, vm and other ways of running the web page
+- [ ] profile page statistics/history section (likes, reposts, views, completions of other articles)
+- [ ] pins showing for locations of notes on map
+- [ ] posting articles from notes
+- [ ] sharing individual notes via url
