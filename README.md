@@ -5,9 +5,9 @@ The increased global popularity and following of football has resulted in people
 Functional Requirements | Non-Functional Requirements
 | ----------- | ----------- |
 | User login and management | User Friendly UI |
-| Forum and Post management | Secure Data Storage |
-| Working marketplace | Secure Data Storage | 
-| Forum and Post management | Secure Data Storage | 
+| Forum and Post management | Scalable backend |
+| Working marketplace | Aesthetically Pleasing | 
+| Data Visualisation | Secure Data Storage | 
 
 
 ## Basic Design of UI, Hierarchy and Interactive elements
