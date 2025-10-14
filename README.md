@@ -248,7 +248,7 @@ development log started in august 18th in line with course shift away from desig
 - [x] make table of contents for readme
 - [ ] finish styling all pages to sitewide theme
     - [ ] home page
-    - [ ] library page
+    - [x] library page
     - [x] map page
     - [ ] about page (+ contact)
     - [ ] new note
@@ -281,8 +281,7 @@ development log started in august 18th in line with course shift away from desig
     - [x] collapsibility
     - [x] account button functionally showing at bottom of menu
 
-## Deferred tasks
-*these tasks would see improvements to the website, however they are not within the current scope and timeline of the project*
+## Deferred tasks - Unable to complete within timeframe
 
 - [ ] delete account feature
 - [ ] offline functionality
