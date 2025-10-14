@@ -222,3 +222,21 @@ SELECT COUNT(*) AS TotalUsers
 
 FROM extension;
 
+## Development log
+development log started in august 18th in line with course shift away from design towards development.
+| date | work completed |
+| --- | --- |
+| 18/8  | started setting up development environment | 
+| 19/8 | finished tempe hs tutorial on setting up development environment |
+| 20/8 | started creating own tables in sqlite database |
+| 22/8* | finished creating first table in database |
+| 23/8* | finished creating second table in database and ran five unique test queries |
+| 25/8 | started working through html and css styling tutorial |
+| 25/8* | got localhost webpage to work, began styling with html and css |
+| 26/8 | attempted to connect database with front end |
+| 26/8* | successfully connected database to front end, continued styling and cleared errors |
+| 27/8 | unsuccessfully attempted to style page to view data entries in a grid format
+| 27/8* | continued styling page, including fixing data entries into grid format and creating floating sidebar using w3schools tutorial |
+| 28/8* | added image
+| 1/9 | fixed data entries showing with images and fixed width but caused merge error |
+| 3/9* | fixed merge issue and adjusted file names
