@@ -232,36 +232,36 @@ Note: Only the development stage after design and setting up
 | 26/8*  | Ran five test queries to confirm database functionality                                      |
 | 29/8*  | Connected Flask backend to SQLite database, verified data retrieval in terminal              |
 | 31/8   | Designed base HTML structure for project and linked main CSS + JS files                      |
-| 2/9    | Started **Home Page** layout — added header, logo, and introductory banner section           |
+| 2/9    | Started **Home Page** layout — added header and image carousel         |
 | 3/9*   | Added **navbar** with working links to all pages (Home, Standings, Marketplace, News, Login) |
 | 4/9    | Styled navbar and added hover effects and smooth scrolling                                   |
-| 5/9    | Inserted **homepage images** (stadiums, players, logos) and aligned them responsively        |
-| 6/9*   | Implemented homepage **interactive buttons** and scroll animations with JavaScript           |
+| 5/9    | Inserted **homepage images** (stadiums, players) and aligned them responsively, also added upcmoming matches section with a reminder button with animations       |
+| 6/9*   | Implemented homepage **interactive buttons** and animations with JavaScript           |
 | 7/9    | Created **Standings Page** with placeholder HTML table for team positions                    |
-| 8/9*   | Linked standings data dynamically from SQLite using Flask routes                             |
-| 9/9    | Styled standings table with background colors, alternating row colors, and hover effects     |
+| 8/9*   | Styled and coded standings table with background colors, alternating row colors, and hover                             |
+| 9/9    | Added recent matches with stats at the bottom with animations and pop ups - made it aesthetically pleasing and interactive     |
 | 10/9*  | Developed **Marketplace Page** layout — added product grid and images for test items         |
 | 11/9   | Added **filter system and add-to-cart** button using JavaScript                              |
-| 12/9*  | Enhanced marketplace with hover animations and live price updates                            |
+| 12/9*  | Enhanced marketplace with hover animations                             |
 | 13/9   | Started **News Page** design — added article cards, images, and description previews         |
-| 14/9*  | Connected News Page to Flask backend for test article data                                   |
+| 14/9*  | Created text for each news articles and added transfer news at the bottom                                |
 | 15/9   | Finished layout for news section and added “Read More” interaction buttons                   |
 | 17/9   | Created **Login Page** and basic authentication route in Flask                               |
 | 18/9   | Designed **Sign Up Page** with input validation for new users                                |
 | 19/9*  | Added **Forgot Password** form and linked it to login page                                   |
 | 21/9   | Built **Terms of Service** and **Privacy Policy** pages, linked in footer                    |
-| 23/9*  | Implemented footer across all pages and added social media icons                             |
-| 25/9   | Adjusted color scheme and improved mobile responsiveness                                     |
+| 23/9*  | Implemented footer across all pages icons                             |
+| 25/9   | Adjusted color scheme                                    |
 | 27/9*  | Integrated all routes in Flask app and tested navigation between all pages                   |
-| 29/9   | Added favicon, updated titles, and organized image files in `static/images`                  |
+| 29/9   | Added favicon, updated titles and organized image files in `static/images`                  |
 | 1/10*  | Began debugging database connections and testing user form submissions                       |
 | 3/10   | Fixed multiple Flask route errors and improved load performance                              |
 | 5/10*  | Optimized CSS layout for consistency and fixed overlapping elements                          |
 | 7/10   | Added JavaScript interactivity (dynamic highlights, button animations, and modal popups)     |
 | 9/10*  | Completed **Marketplace Page** functionality — working cart and filters                      |
-| 11/10  | Polished UI: updated image sizes, fonts, and page spacing                                    |
-| 13/10* | Ran final test for all pages — verified database, images, and links work correctly           |
-| 15/10  | Completed full project testing, cleaned folder structure, and prepared for submission        |
+| 11/10  | Polished UI: updated image sizes, fonts and page spacing                                    |
+| 13/10* | Ran final test for all pages — verified database, images and links work correctly           |
+| 15/10  | Completed full project testing, cleaned folder structure and prepared for submission        |
 
 
 
