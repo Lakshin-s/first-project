@@ -227,26 +227,43 @@ Note: Only the development stage after design and setting up
 
 | date | work completed |
 | --- | --- |
-| 22/8  | Started setting up development environment                                                                                                |
-| 23/8  | Started creating own tables in SQLite database                                                                                            |
-| 25/8  | Finished creating first table in database                                                                                                 |
-| 26/8* | Ran five test queries                                                                                                                     |
-| 29/8* | Finished creating second table in database and ran five unique test queries                                                               |
-| 31/8  | Began designing main website structure (HTML base layout + CSS file setup)                                                                |
-| 2/9   | Started working on **Home Page** layout — added hero banner and introduction text                                                         |
-| 3/9*  | Added **navbar** and linked it to all main pages (Home, Standings, Marketplace, News, Login)                                              |
-| 4/9   | Styled navbar with hover effects and responsive design for smaller screens                                                                |
-| 5/9   | Inserted homepage **images** (league logo, stadium backgrounds) and tested layout responsiveness                                          |
-| 6/9*  | Added **interactive buttons** and a scroll-to-top feature using JavaScript                                                                |
-| 7/9   | Created **Standings Page** layout — added table structure and placeholders for team data                                                  |
-| 8/9*  | Linked standings table to database using Flask routes; tested with sample data                                                            |
-| 9/9   | Styled standings table (background colors, alternating rows, hover highlight)                                                             |
-| 10/9* | Developed **Marketplace Page** layout — added grid system for products and test images                                                    |
-| 11/9  | Implemented **filter system and add-to-cart** buttons using JavaScript                                                                    |
-| 12/9* | Enhanced marketplace design: added product cards, hover animations, and updated image paths                                               |
-| 13/9  | Started **News Page** — created layout for article previews and linked placeholders for images and text                                   |
-| 14/9* | Built **Login**, **Sign Up**, and **Forgot Password** forms (HTML + CSS)                                                                  |
-| 15/9  | Added **Terms of Service** and **Privacy Policy** pages, linked them in the footer, and completed initial testing of all navigation links |
+| 22/8   | Set up initial development environment and installed Flask + SQLite                          |
+| 23/8   | Created first SQLite table for team data and tested connection                               |
+| 25/8   | Finalized database schema and successfully created second table for user accounts            |
+| 26/8*  | Ran five test queries to confirm database functionality                                      |
+| 29/8*  | Connected Flask backend to SQLite database, verified data retrieval in terminal              |
+| 31/8   | Designed base HTML structure for project and linked main CSS + JS files                      |
+| 2/9    | Started **Home Page** layout — added header, logo, and introductory banner section           |
+| 3/9*   | Added **navbar** with working links to all pages (Home, Standings, Marketplace, News, Login) |
+| 4/9    | Styled navbar and added hover effects and smooth scrolling                                   |
+| 5/9    | Inserted **homepage images** (stadiums, players, logos) and aligned them responsively        |
+| 6/9*   | Implemented homepage **interactive buttons** and scroll animations with JavaScript           |
+| 7/9    | Created **Standings Page** with placeholder HTML table for team positions                    |
+| 8/9*   | Linked standings data dynamically from SQLite using Flask routes                             |
+| 9/9    | Styled standings table with background colors, alternating row colors, and hover effects     |
+| 10/9*  | Developed **Marketplace Page** layout — added product grid and images for test items         |
+| 11/9   | Added **filter system and add-to-cart** button using JavaScript                              |
+| 12/9*  | Enhanced marketplace with hover animations and live price updates                            |
+| 13/9   | Started **News Page** design — added article cards, images, and description previews         |
+| 14/9*  | Connected News Page to Flask backend for test article data                                   |
+| 15/9   | Finished layout for news section and added “Read More” interaction buttons                   |
+| 17/9   | Created **Login Page** and basic authentication route in Flask                               |
+| 18/9   | Designed **Sign Up Page** with input validation for new users                                |
+| 19/9*  | Added **Forgot Password** form and linked it to login page                                   |
+| 21/9   | Built **Terms of Service** and **Privacy Policy** pages, linked in footer                    |
+| 23/9*  | Implemented footer across all pages and added social media icons                             |
+| 25/9   | Adjusted color scheme and improved mobile responsiveness                                     |
+| 27/9*  | Integrated all routes in Flask app and tested navigation between all pages                   |
+| 29/9   | Added favicon, updated titles, and organized image files in `static/images`                  |
+| 1/10*  | Began debugging database connections and testing user form submissions                       |
+| 3/10   | Fixed multiple Flask route errors and improved load performance                              |
+| 5/10*  | Optimized CSS layout for consistency and fixed overlapping elements                          |
+| 7/10   | Added JavaScript interactivity (dynamic highlights, button animations, and modal popups)     |
+| 9/10*  | Completed **Marketplace Page** functionality — working cart and filters                      |
+| 11/10  | Polished UI: updated image sizes, fonts, and page spacing                                    |
+| 13/10* | Ran final test for all pages — verified database, images, and links work correctly           |
+| 15/10  | Completed full project testing, cleaned folder structure, and prepared for submission        |
+
 
 
 ## Lighthouse reports
