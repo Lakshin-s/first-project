@@ -294,7 +294,7 @@ Note: Only the development stage after design and setting up
 - [ ] finish styling all pages to sitewide theme and ensure functionality
     - [x] home page
     - [x] standings page
-    - [x] marketplace page
+    - [x] marketplace page 
     - [x] login page
     - [x] news page
     - [x] checkout page
@@ -309,8 +309,8 @@ Note: Only the development stage after design and setting up
 - [ ] marketplace feature functionality
     - [x] incorporate a cart element and make it work
     - [x] add filters
-    - [ ] add name and price and have a change quantity feature
-    - [x] source images for each product
+    - [x] add name and price and have a change quantity feature
+    - [ ] make images show up in overlay, cart and checkout
 - [x] standings page 
     - [x] have 3 different leagues in a filters system with 20 teams 
     - [x] add recent matches and once clicked on shows up with match stats
