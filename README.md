@@ -262,51 +262,51 @@ development log started in august 18th in line with course shift away from desig
 - seo: 100
 
 ## Task list
-- [x] fix styling of navigation bar
+- [x] continue documenting on README
+- [x] incorporate multilple interactive elements
+- [x] source multiple images and assets for my website
+- [x] create a navbar that is on all pages to navigate between pages smoothly
 - [x] learn how to integrate complex queries into python functions for displaying data
-- [x] fix display of cards to show in grid format instead of long column
-- [x] make table of contents for readme
-- [ ] finish styling all pages to sitewide theme
-    - [ ] home page
-    - [x] library page
-    - [x] map page
-    - [ ] about page (+ contact)
-    - [ ] new note
-    - [x] log in page
-    - [x] account settings page
-    - [x] articles page
-- [x] account features
+- [ ] finish styling all pages to sitewide theme and ensure functionality
+    - [x] home page
+    - [x] standings page
+    - [x] marketplace page
+    - [x] login page
+    - [x] news page
+    - [x] checkout page
+    - [x] signup page
+    - [x] privacy policy and terms pages
+    - [x] forgot password page
+- [x] user account features
     - [x] correct html input
-    - [x] integrate log in features into rest of website
-    - [x] dynamic account settings text in menu
-    - [x] style create account page
+    - [ ] integrate log in features and link to database
+    - [x] style further pages - forgot password, sign up, terms and privacy policy
     - [x] account page functionality
-- [ ] note taking feature functionality
-    - [x] inputting and saving notes
-    - [x] viewing and accessing notes in library feature
-    - [ ] inserting images
-- [x] articles feature functionality
-    - [x] link to view articles
-    - [x] generate articles and import to database
-    - [x] show username of article author in browsing page
-- [x] profile page
-    - [x] access to user settings
-    - [x] profile picture and bio
-    - [x] shows your posts
-- [ ] search bar feature
-    - [x] landing page with redirects
-    - [ ] functional bar
-- [x] sidebar
-    - [x] new note button location
-    - [x] collapsibility
-    - [x] account button functionally showing at bottom of menu
+- [ ] marketplace feature functionality
+    - [x] incorporate a cart element and make it work
+    - [x] add filters
+    - [ ] add name and price and have a change quantity feature
+    - [x] source images for each product
+- [x] standings page 
+    - [x] have 3 different leagues in a filters system with 20 teams 
+    - [x] add recent matches and once clicked on shows up with match stats
+    - [x] make it interactive - when you hover over something its changes colours
+    - [x] link to database for real time match tracking
+- [x] news page
+    - [x] have multiple articles with text 
+    - [x] include transfers news too 
+    - [ ] include images for the articles
+
+- [x] navbar
+    - [x] functional links to other pages
+    - [x] style it according to website aesthetic
+    - [ ] include logo of Leaguecentral
 
 ## Deferred tasks - Unable to complete within timeframe
 
-- [ ] delete account feature
+- [ ] include AI assistant
 - [ ] offline functionality
-- [ ] continue investigating containers, vm and other ways of running the web page
-- [ ] profile page statistics/history section (likes, reposts, views, completions of other articles)
-- [ ] pins showing for locations of notes on map
-- [ ] posting articles from notes
-- [ ] sharing individual notes via url
+- [ ] notifications on listed email 
+- [ ] posting articles from famous organisations in news page 
+- [ ] have a way to choose your favorite teams specifically and track them
+- [ ] search bar feature
