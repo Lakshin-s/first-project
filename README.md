@@ -228,8 +228,7 @@ Note: Only the development stage after design and setting up
 | date | work completed |
 | --- | --- |
 | 22/8   | Set up initial development environment and installed Flask + SQLite                          |
-| 23/8   | Created first SQLite table for team data and tested connection                               |
-| 25/8   | Finalized database schema and successfully created second table for user accounts            |
+| 23/8   | Created first SQLite table for data                             |
 | 26/8*  | Ran five test queries to confirm database functionality                                      |
 | 29/8*  | Connected Flask backend to SQLite database, verified data retrieval in terminal              |
 | 31/8   | Designed base HTML structure for project and linked main CSS + JS files                      |
