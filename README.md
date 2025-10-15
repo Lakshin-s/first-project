@@ -223,23 +223,33 @@ SELECT COUNT(*) AS TotalUsers
 FROM extension;
 
 ## Development log
-development log started in august 18th in line with course shift away from design towards development.
+Note: Only the development stage after design and setting up
+
 | date | work completed |
 | --- | --- |
-| 18/8  | started setting up development environment | 
-| 19/8 | finished tempe hs tutorial on setting up development environment |
-| 20/8 | started creating own tables in sqlite database |
-| 22/8* | finished creating first table in database |
-| 23/8* | finished creating second table in database and ran five unique test queries |
-| 25/8 | started working through html and css styling tutorial |
-| 25/8* | got localhost webpage to work, began styling with html and css |
-| 26/8 | attempted to connect database with front end |
-| 26/8* | successfully connected database to front end, continued styling and cleared errors |
-| 27/8 | unsuccessfully attempted to style page to view data entries in a grid format
-| 27/8* | continued styling page, including fixing data entries into grid format and creating floating sidebar using w3schools tutorial |
-| 28/8* | added image
-| 1/9 | fixed data entries showing with images and fixed width but caused merge error |
-| 3/9* | fixed merge issue and adjusted file names
+| Date  | Development Progress                                                                                                                      |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 22/8  | Started setting up development environment                                                                                                |
+| 23/8  | Started creating own tables in SQLite database                                                                                            |
+| 25/8  | Finished creating first table in database                                                                                                 |
+| 26/8* | Ran five test queries                                                                                                                     |
+| 29/8* | Finished creating second table in database and ran five unique test queries                                                               |
+| 31/8  | Began designing main website structure (HTML base layout + CSS file setup)                                                                |
+| 2/9   | Started working on **Home Page** layout — added hero banner and introduction text                                                         |
+| 3/9*  | Added **navbar** and linked it to all main pages (Home, Standings, Marketplace, News, Login)                                              |
+| 4/9   | Styled navbar with hover effects and responsive design for smaller screens                                                                |
+| 5/9   | Inserted homepage **images** (league logo, stadium backgrounds) and tested layout responsiveness                                          |
+| 6/9*  | Added **interactive buttons** and a scroll-to-top feature using JavaScript                                                                |
+| 7/9   | Created **Standings Page** layout — added table structure and placeholders for team data                                                  |
+| 8/9*  | Linked standings table to database using Flask routes; tested with sample data                                                            |
+| 9/9   | Styled standings table (background colors, alternating rows, hover highlight)                                                             |
+| 10/9* | Developed **Marketplace Page** layout — added grid system for products and test images                                                    |
+| 11/9  | Implemented **filter system and add-to-cart** buttons using JavaScript                                                                    |
+| 12/9* | Enhanced marketplace design: added product cards, hover animations, and updated image paths                                               |
+| 13/9  | Started **News Page** — created layout for article previews and linked placeholders for images and text                                   |
+| 14/9* | Built **Login**, **Sign Up**, and **Forgot Password** forms (HTML + CSS)                                                                  |
+| 15/9  | Added **Terms of Service** and **Privacy Policy** pages, linked them in the footer, and completed initial testing of all navigation links |
+
 
 ## Lighthouse reports
 ### September 4, 2025 (week 7)
