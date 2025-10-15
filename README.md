@@ -227,8 +227,6 @@ Note: Only the development stage after design and setting up
 
 | date | work completed |
 | --- | --- |
-| Date  | Development Progress                                                                                                                      |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 22/8  | Started setting up development environment                                                                                                |
 | 23/8  | Started creating own tables in SQLite database                                                                                            |
 | 25/8  | Finished creating first table in database                                                                                                 |
